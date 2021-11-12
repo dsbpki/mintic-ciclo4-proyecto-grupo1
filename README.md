@@ -46,6 +46,7 @@ Para ejecutar este proyecto es necesario instalar localmente alguna de las sigui
 - [@camreynolds](https://github.com/camreynolds)
 - [@jfcrelectronico](https://github.com/jfcrelectronico)
 - [@Hernan-Cardenas-J](https://github.com/Hernan-Cardenas-J)
+- [@dsbpki ](https://github.com/dsbpki)
 
 ## Licencia
 
