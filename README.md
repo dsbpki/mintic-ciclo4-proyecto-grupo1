@@ -31,9 +31,9 @@ Para ejecutar este proyecto es necesario instalar localmente alguna de las sigui
 
 ## Características.
 
-- Fomulario de registro en landing page para nuevos usuarios.
-- Login page  para usuarios ya registrados.
-- Responsive Design.
+- Caraterística 1.
+- Caraterística 2.
+- Caraterística 3.
 
 ## Documentación
 
